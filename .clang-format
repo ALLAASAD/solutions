@@ -1,7 +1,6 @@
 BasedOnStyle: Google
 
 SortIncludes: true
-
 IndentWidth: 4
 TabWidth: 4
 ColumnLimit: 0
@@ -13,3 +12,5 @@ AllowShortFunctionsOnASingleLine: All
 AllowShortIfStatementsOnASingleLine: Always
 AllowShortLambdasOnASingleLine: All
 AllowShortLoopsOnASingleLine: true
+BreakBeforeBraces: Linux
+IndentCaseLabels: false
